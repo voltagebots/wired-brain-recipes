@@ -1,1 +1,2 @@
-Hello, Git
+Hello Git,
+Sharing remotely is fun
